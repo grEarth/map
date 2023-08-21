@@ -28,5 +28,7 @@
 * [INTRODUCTION TO GNSS GEODESY](http://62.182.86.140/main/3286000/3a0cf87ee1686a0c9bb9aabbafa56b72/CLEMENT%20A.%20OGAJA%20-%20INTRODUCTION%20TO%20GNSS%20GEODESY_%20foundations%20of%20precise%20positioning%20and%20geoinformatics.-SPRINGER%20NATURE%20%282022%29.pdf) 
 * [Remote Sensing of Natural Resources](http://62.182.86.140/main/2258000/f8c6cef78762220ee45ce1ebbcd96ea6/Thomas%20M.%20Lillesand_%20Ralph%20W%20Kiefer_%20Jonathan%20Chipman%20-%20Remote%20Sensing%20and%20Image%20Interpretation-Wiley%20%282015%29.pdf)
 * [Application of Remote Sensing and GIS in Natural Resources](http://62.182.86.140/main/3567000/1b1c2e4d82cb2198329d1567de0d08c4/%28Water%20Science%20and%20Technology%20Library%2C%20105%29%20Vijay%20P.%20Singh%2C%20Shalini%20Yadav%2C%20Krishna%20Kumar%20Yadav%2C%20Gerald%20Augusto%20Corzo%20Perez%2C%20Francisco%20Mu%C3%B1oz-Arriola%2C%20Ram%20Narayan%20Yadava%20-%20Application%20of%20Remote%20Sensing%20.pdf)
+* [First Principles of Meteorology and Air Pollution](http://62.182.86.140/main/494000/bda4b26006fa0145dc23ca4d5fe8c71f/%28Environmental%20Pollution%2019%29%20Mihalis%20Lazaridis%20%28auth.%29%20-%20First%20Principles%20of%20Meteorology%20and%20Air%20Pollution-Springer%20Netherlands%20%282011%29.pdf)
+* [Air Pollution Meteorology](http://62.182.86.140/main/1169000/de192cd3071a820d81bb2698a583a9f2/R.R.%20Scorer%20%28Auth.%29%20-%20Air%20Pollution%20Meteorology-Woodhead%20Publishing%20%282002%29.pdf)
 
 
